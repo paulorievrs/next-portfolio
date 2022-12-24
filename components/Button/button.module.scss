@@ -1,0 +1,36 @@
+@import "../../styles/colors";
+
+.buttonComponent {
+  height: 46px;
+  border: none;
+  background: $primary-color;
+  border-radius: 4px;
+  padding: 3px 28px;
+  color: white;
+  font-weight: 600;
+  font-size: 18px;
+  width: 100%;
+  cursor: pointer;
+  transition: all 0.2s;
+  position: relative;
+}
+
+.disabled {
+  opacity: 50%;
+  background: #757373;
+  cursor: not-allowed;
+  position: relative;
+}
+
+.icon {
+  position: absolute;
+  right: 20px;
+}
+
+.buttonComponent:hover {
+  box-shadow: 2px 4px 4px #00000021;
+}
+
+.disabled:hover {
+  box-shadow: none;
+}

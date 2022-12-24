@@ -1,0 +1,104 @@
+{
+  "header": {
+    "home": "Início",
+    "work": "Trabalhos",
+    "contact": "Contato"
+  },
+  "homepage": {
+    "presentation": {
+      "title": "Oi, Eu sou o Paulo Rievrs!",
+      "sub-title": "Programador web",
+      "about": "Um programador empolgado sempre com novas tecnologias e buscando sempre aprender. Atualmente trabalho com React e Express mas já trabalhei com Laravel, React Native, e outros",
+      "check-work": "Veja meu trabalho"
+    },
+
+    "skills": {
+      "title": "Skills",
+      "text": "Essas são as skills que eu já trabalhei ao longo do meu tempo de trabalho.",
+      "workedTime": {
+        "6m1y": "6 meses ~ 1 ano",
+        "1y2y": "1 ano ~ 2 anos",
+        "2y3y": "2 anos ~ 3 anos"
+      }
+    },
+    "experience": {
+      "title": "Experiência",
+      "grupomov": [
+        "Uma aplicação que tem mais de 100 usuário. O fluxo principal é: os clientes criam os chamados de serviço para a empresa admin e o usuário admin direciona o chamado de serviço para um técnico e ele vai ao local e faz relatórios que podem ser convertidos para PDF.",
+        "Também tornamos o projeto para qualquer empresa de manutenção de empilhadeira. (SaaS)"
+      ],
+      "upflow": [
+        "Uma aplicação na qual a empresa pode controlar vagas abertas e seus candidatos. O fluxo principal seria: a empresa cria a vaga e os candidatos se candidatam para a vaga e a empresa pode ver os candidatos e os candidatos podem ver as vagas que se candidataram. Também temos um filtro avançado para combinar candidatos com a vaga.",
+        "O app controla desde a criação da vaga, as candidaturas, as entrevistas, a contratação (incluindo contratos na plaformo) e o onboarding."
+      ],
+      "teknisa": [
+        "Desenvolvimento de sistemas em Laravel e React",
+        "Criação de novos projetos, criação da estrutura de pastas, definição de padrões de códigos, revisões de pull requests e ensinamento aos novos desenvolvedores como usar as ferramentas e frameworks.",
+        "Trabalho em equipe com desenvolvimento ágil (Scrum and Kanbam)."
+      ],
+      "bernoulli": [
+        "Uma aplicação que prove para várias escolas a a possibilidade de gerenciar turmas, notas, professores e pais. Com todas as permissões configuradas para os pais e professores. As turmas foram carregadas por video e/ou PDF.",
+        "Assistencia na estruturação de um novo projeto em Laravel, criação da arquitetura, ambiente docker, padronização de classes."
+      ],
+      "arctouch": [
+        "Trabalho com clientes dos EUA, desenvolvendo aplicações web usando React e Express"
+      ]
+    }
+  },
+  "contact": {
+    "social1": "Para me contatar você pode me mandar uma mensagem em qualquer rede social como",
+    "social2": "Ou você pode enviar um e-mail abaixo para",
+    "name": "Nome",
+    "email": "E-mail",
+    "message": "Mensagem",
+    "subject": "Assunto",
+    "nameValidation": "Por favor insira um nome",
+    "emailValidation": "Por favor insira um email válido",
+    "messageValidation": "Por favor insira sua mensagem",
+    "subjectValidation": "Por favor insira um assunto",
+    "or": "ou",
+    "sendEmail": "Enviar email",
+    "requiredName": "O nome é obrigatório",
+    "requiredEmail": "O email é obrigatório",
+    "requiredMessage": "A mensagem é obrigatória",
+    "requiredSubject": "O assunto é obrigatório"
+  },
+  "works": {
+    "title": "Aqui você encontra alguns dos meus projetos. Se você quiser saber mais sobre eles clique nos links abaixo.",
+    "sub_title": "Mais projetos no meu",
+    "grupomov": "Um projeto para uma empresa que oferece serviços de manutenção em empilhadeiras. O fluxo principal é: os clientes criam os chamados de serviço para a empresa admin e o usuário admin direciona o chamado de serviço para um técnico e ele vai ao local e faz relatórios que podem ser convertidos para PDF. Tudo integrado em uma aplicação web e mobile.",
+    "java4noobs": "Um projeto que ensina Java para iniciantes. Todo está no github e é um projeto open source que qualquer um pode contribuir.",
+    "mysql4noobs": "Um projeto que ensina MySQL para iniciantes. Todo está no github e é um projeto open source que qualquer um pode contribuir.",
+    "organizador_financeiro": "Um projeto que ajuda as pessoas a organizar suas finanças. Todo está no github e é um projeto open source que qualquer um pode contribuir. Ainda está em desenvolvimento.",
+    "financial_organizer": "Organizador Financeiro",
+    "this_website": "Este site que você está vendo agora. Feito em NextJS. Confira no github.",
+    "this_website_name": "Esse site"
+  },
+  "months": {
+    "january": "Janeiro",
+    "february": "Fevereiro",
+    "march": "Março",
+    "april": "Abril",
+    "may": "Maio",
+    "june": "Junho",
+    "july": "Julho",
+    "august": "Agosto",
+    "september": "Setembro",
+    "october": "Outubro",
+    "november": "Novembro",
+    "december": "Dezembro",
+    "jan": "Jan",
+    "feb": "Fev",
+    "mar": "Mar",
+    "apr": "Abr",
+    "may2": "Maio",
+    "jun": "Jun",
+    "jul": "Jul",
+    "aug": "Ago",
+    "sep": "Set",
+    "oct": "Out",
+    "nov": "Nov",
+    "dec": "Dez",
+    "current": "Atual"
+  }
+}

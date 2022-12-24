@@ -1,0 +1,103 @@
+{
+  "header": {
+    "home": "Home",
+    "work": "Works",
+    "contact": "Contact"
+  },
+  "homepage": {
+    "presentation": {
+      "title": "Hi, I'm Paulo Rievrs!",
+      "sub-title": "I'm a web developer",
+      "about": "A developer always excited with new technologies and always looking to learn. Currently I work with React and Express but I already worked with Laravel, React Native, Angular, and others",
+      "check-work": "Check my work"
+    },
+
+    "skills": {
+      "title": "Skills",
+      "workedTime": {
+        "6m1y": "6 months ~ 1 year",
+        "1y2y": "1 year ~ 2 years",
+        "2y3y": "2 years ~ 3 years"
+      }
+    },
+    "experience": {
+      "title": "Experience",
+      "grupomov": [
+        "An application that have more the 100 users. The main work flux is: the costumers create the service calls for the admin company and the admin user directs the service call for a tech and him goes to the place and makes reports that can be converted to PDF.",
+        "Also uptaded the projet for any company of forklift maintenance use. (SaaS)"
+      ],
+      "upflow": [
+        "An aplication that a company can control their vacancy opened and the candidates that apply for the vacancy. The main work flux is: the company create the vacancy and the candidates apply for the vacancy and the company can see the candidates and the candidates can see the vacancies that they apply. Also there is a advanced filter to match the candidates with the vacancy.",
+        "The app controls since the creation of the vecancy, the applications, the interviews, the hiring (including contracts in the plaform) and the onboarding."
+      ],
+      "teknisa": [
+        "Development systems in Laravel and React",
+        "Creating a new project, creation the folder structure, defining standards of codes, pull requests reviews and teaching the new developers how to use the tools and frameworks.",
+        "Team work with agil development (Scrum and Kanbam)."
+      ],
+      "bernoulli": [
+        "An aplication that provides for many schools the possibility to manage classes, grades, teachers and parents. With all the permissions to one see the above. The classes were uploaded by video and/or PDF. ",
+        "Assistence in structuring of a new Laravel project, architecture creation, docker environment, classes standardization."
+      ],
+      "arctouch": [
+        "Work with USA based clients, developing web applications using React and Express"
+      ]
+    }
+  },
+  "contact": {
+    "social1": "For contact me you can use any of my social media as",
+    "social2": "Or you can send a email bellow to",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "subject": "Subject",
+    "nameValidation": "Please enter your name",
+    "emailValidation": "Please enter a valid email address",
+    "messageValidation": "Please enter a message",
+    "subjectValidation": "Please enter a subject",
+    "or": "or",
+    "sendEmail": "Send email",
+    "requiredName": "Name is required",
+    "requiredEmail": "Email is required",
+    "requiredMessage": "Subject is required",
+    "requiredSubject": "Message is required"
+  },
+  "works": {
+    "title": "Here you can find some of my projects. If you want to know more about them or see the code you can click on the links below.",
+    "sub_title": "More projects on my",
+    "grupomov": "A project to a company that offers a service of forklift maintenance. The main work flux is: the costumers create the service calls for the admin company and the admin user directs the service call for a tech and him goes to the place and makes reports that can be converted to PDF. Everything integrated into a web and mobile application.",
+    "java4noobs": "A project to teach Java for beginners. Everything is into github and it's an open source project that anyone can contribute.",
+    "mysql4noobs": "A project to teach MySQL for beginners. Everything is into github and it's an open source project that anyone can contribute.",
+    "organizador_financeiro": "A project that helps anyone to organize their finances. Everything is into github and it's an open source project that anyone can contribute. Work in progress.",
+    "financial_organizer": "Financial Organizer",
+    "this_website": "This website that you are seeing right now. Made with NextJS. Checkout my github to see the code.",
+    "this_website_name": "This website"
+  },
+  "months": {
+    "january": "January",
+    "february": "February",
+    "march": "March",
+    "april": "April",
+    "may": "May",
+    "june": "June",
+    "july": "July",
+    "august": "August",
+    "september": "September",
+    "october": "October",
+    "november": "November",
+    "december": "December",
+    "jan": "Jan",
+    "feb": "Feb",
+    "mar": "Mar",
+    "apr": "Apr",
+    "may2": "May",
+    "jun": "Jun",
+    "jul": "Jul",
+    "aug": "Aug",
+    "sep": "Sep",
+    "oct": "Oct",
+    "nov": "Nov",
+    "dec": "Dec",
+    "current": "Current"
+  }
+}

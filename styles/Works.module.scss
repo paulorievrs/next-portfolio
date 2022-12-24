@@ -1,0 +1,69 @@
+.worksPage {
+  .header {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .content {
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
+    margin-top: 48px;
+    align-items: flex-start;
+    .project {
+      .projectTitle {
+        display: flex;
+        gap: 12px;
+      }
+      .projectImage {
+        max-width: 350px;
+        max-height: 250px;
+        box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+      }
+      .info {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+        .icons {
+          display: flex;
+          gap: 8px;
+        }
+      }
+      .projectLinks {
+        display: flex;
+        gap: 12px;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .worksPage {
+    .project {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 24px;
+      .outsideImage {
+        display: none;
+      }
+    }
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .worksPage {
+    .project {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      gap: 48px;
+      .outsideImage {
+        display: block;
+      }
+      .insideImage {
+        display: none;
+      }
+    }
+  }
+}

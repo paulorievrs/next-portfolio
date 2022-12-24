@@ -1,0 +1,42 @@
+.headerComponent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 15px;
+  margin-left: 24px;
+  margin-bottom: 48px;
+
+  .linksContent {
+    margin-right: 24px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap: 24px;
+  }
+
+  .icons {
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+  }
+  .icons:hover {
+    transform: scale(1.2);
+  }
+}
+
+@media (min-width: 768px) {
+  .headerComponent {
+    margin-left: 32px;
+    .linksContent {
+      margin-right: 32px;
+    }
+  }
+}
+
+@media (min-width: 1200px) {
+  .headerComponent {
+    margin-left: 40px;
+    .linksContent {
+      margin-right: 40px;
+    }
+  }
+}

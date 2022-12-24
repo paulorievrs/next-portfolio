@@ -1,0 +1,39 @@
+.footer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 20px;
+  margin-top: 40px;
+  .content {
+    .footerText {
+      font-family: "Montserrat", sans-serif;
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 17px;
+      color: #678398;
+    }
+    .footerIcons {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+      gap: 25px;
+      margin-bottom: 24px;
+      .icons {
+        cursor: pointer;
+        transition: all 0.3s ease-in-out;
+      }
+      .icons:hover {
+        transform: scale(1.2);
+      }
+    }
+  }
+}
+
+@media (max-width: 375px) {
+  .footer {
+    width: 100%;
+    text-align: center;
+  }
+}
