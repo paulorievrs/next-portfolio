@@ -2,7 +2,8 @@
   "header": {
     "home": "Home",
     "work": "Works",
-    "contact": "Contact"
+    "contact": "Contact",
+    "twitchCommands": "Twitch Commands"
   },
   "homepage": {
     "presentation": {

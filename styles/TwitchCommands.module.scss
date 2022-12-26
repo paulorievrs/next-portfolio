@@ -1,0 +1,42 @@
+.tableWrapper {
+  box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.2);
+  padding: 24px;
+  border-radius: 8px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+  .table {
+    width: 100%;
+    border-radius: 8px;
+    padding-bottom: 12px;
+    border-spacing: 1em 0.5em;
+
+    .header {
+      .title {
+        padding: 6px;
+        text-align: left;
+        font-weight: 600;
+      }
+    }
+    .content {
+      .item {
+        border: 1px solid #dddd;
+        border-top-width: 0px;
+        border-right-width: 0px;
+        border-left-width: 0px;
+        padding: 12px 0px;
+      }
+    }
+  }
+}
+
+.bottomText {
+  display: flex;
+  width: 100%;
+  justify-content: flex-end;
+}
+
+@media screen and (max-width: 769px) {
+  .tableWrapper {
+    overflow-x: scroll;
+  }
+}
