@@ -74,7 +74,8 @@
     "financial_organizer": "Organizador Financeiro",
     "this_website": "Este site que você está vendo agora. Feito em NextJS. Confira no github.",
     "this_website_name": "Esse site",
-    "twitch_bot": "Um bot que eu fiz ao vivo para me ajudar no meu canal da twitch. Ele tem alguns comandos que mostra algumas das minhas redes sociais e sobre informações sobre a stream. Está no github."
+    "twitch_bot": "Um bot que eu fiz ao vivo para me ajudar no meu canal da twitch. Ele tem alguns comandos que mostra algumas das minhas redes sociais e sobre informações sobre a stream. Está no github.",
+    "crawler_aliexpress": "A part ir de algumas url's do aliexpress você pode receber em seu discord notificações sobre os preços."
   },
   "twitch-commands": {
     "backToHome": "Voltar a página inicial"

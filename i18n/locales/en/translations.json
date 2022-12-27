@@ -73,7 +73,8 @@
     "financial_organizer": "Financial Organizer",
     "this_website": "This website that you are seeing right now. Made with NextJS. Checkout my github to see the code.",
     "this_website_name": "This website",
-    "twitch_bot": "A bot that I made in live to help me in my twitch channel. It has some commands that shows some of social midia and information about the stream. It's on github."
+    "twitch_bot": "A bot that I made in live to help me in my twitch channel. It has some commands that shows some of social midia and information about the stream. It's on github.",
+    "crawler_aliexpress": "From some aliexpress URL's you can receive in your discord webhook notification about the prices."
   },
   "twitch-commands": {
     "backToHome": "Back to home"

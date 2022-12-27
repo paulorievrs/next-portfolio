@@ -22,6 +22,7 @@ import Java4NoobsMainImage from "../../assets/projects/java4noobs/main.png";
 import MySQL4NoobsMainImage from "../../assets/projects/mysql4noobs/main.png";
 import ThisWebsiteMainImage from "../../assets/projects/this_website/main.png";
 import TwitchBotMainImage from "../../assets/projects/twitch_bot/main.png";
+import CrawlerAliexpressMainImage from "../../assets/projects/crawler-aliexpress/main.png";
 
 type linkType = {
   link: string;
@@ -124,6 +125,17 @@ const works: workType[] = [
       }
     ],
     icons: [JavascriptIcon]
+  },
+  {
+    title: "Crawler Aliexpress",
+    image: CrawlerAliexpressMainImage,
+    links: [
+      {
+        link: "https://github.com/paulorievrs/crawler-aliexpress-prices",
+        text: "Github"
+      }
+    ],
+    icons: [TypescriptIcon]
   }
 ];
 
