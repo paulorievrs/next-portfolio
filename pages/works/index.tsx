@@ -21,6 +21,7 @@ import OrganizadorFincaneiroMainImage from "../../assets/projects/organizacao_fi
 import Java4NoobsMainImage from "../../assets/projects/java4noobs/main.png";
 import MySQL4NoobsMainImage from "../../assets/projects/mysql4noobs/main.png";
 import ThisWebsiteMainImage from "../../assets/projects/this_website/main.png";
+import TwitchBotMainImage from "../../assets/projects/twitch_bot/main.png";
 
 type linkType = {
   link: string;
@@ -104,6 +105,25 @@ const works: workType[] = [
     icons: [TypescriptIcon, ReactIcon],
     translate: true,
     translation: "this_website_name"
+  },
+  {
+    title: "Twitch bot",
+    image: TwitchBotMainImage,
+    links: [
+      {
+        link: "https://github.com/paulorievrs/twitch-bot",
+        text: "Github"
+      },
+      {
+        link: "https://www.twitch.tv/paulorievrs",
+        text: "Twitch"
+      },
+      {
+        link: "https://paulorievrs.dev/twitch-commands",
+        text: "Commands"
+      }
+    ],
+    icons: [JavascriptIcon]
   }
 ];
 

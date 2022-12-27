@@ -147,7 +147,7 @@ export default function TwitchCommands() {
       </div>
       <LinkComponent
         className={style.bottomText}
-        text="Voltar para a tela inicial"
+        text={t("twitch-commands.backToHome")}
         path="/"
       />
     </div>

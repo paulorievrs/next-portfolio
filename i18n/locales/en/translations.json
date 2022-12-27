@@ -72,7 +72,11 @@
     "organizador_financeiro": "A project that helps anyone to organize their finances. Everything is into github and it's an open source project that anyone can contribute. Work in progress.",
     "financial_organizer": "Financial Organizer",
     "this_website": "This website that you are seeing right now. Made with NextJS. Checkout my github to see the code.",
-    "this_website_name": "This website"
+    "this_website_name": "This website",
+    "twitch_bot": "A bot that I made in live to help me in my twitch channel. It has some commands that shows some of social midia and information about the stream. It's on github."
+  },
+  "twitch-commands": {
+    "backToHome": "Back to home"
   },
   "months": {
     "january": "January",
